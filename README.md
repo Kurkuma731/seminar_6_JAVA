@@ -1,1 +1,2 @@
-# seminar_6_JAVA
+Юсупов Азат
+6 seminar
